@@ -1,0 +1,12 @@
+OOP
+
+1. Real world actors = data in the ram
+    - Objects
+    - Data type - Student, student, collegerStudent
+    - Built in data types - str, float, int, bool
+    - class
+        - data type to an Object
+        - 1 to n object
+        - class str, class float, class int, class bool
+2. Characteristics of real world actor = attributes of the object
+3. Real world actor actions = methods called on the object
